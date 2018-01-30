@@ -1,0 +1,15 @@
+{
+    "title": "Live Streaming Projecto Mundo",
+    "baseURL": "https:\/\/www.correcto-mundo.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759126",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "correcto-mundo.com"
+    }
+}
